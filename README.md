@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @benimaru-afk (Benjamin Mannal)
+- 👀 I’m interested in reading both Books & Manga, Tennis, and Legos lol.
+- 🌱 I’m currently learning html, CSS, and javascript.
+- 💞️ I’m looking to collaborate on video game publishing and creation.
+- 📫 How to reach me you can find my socials and other forms of contact info on my website https://benimaru-afk.github.io/Benjamin-Mannal-Website/
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am currently working on publishing a game. (Still very early in Development)
